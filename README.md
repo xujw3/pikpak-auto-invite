@@ -39,7 +39,7 @@ python "PikPak Auto Invitation.py"
 
 The script will:
 1. Ask for the number of accounts you want to create
-2. Ask for your invitation code (default: 78269412)
+2. Ask for your invitation code (default: 123123123)
 3. For each account:
    - Create a temporary email
    - Handle captcha verification
