@@ -630,7 +630,7 @@ def main():
                 pikpak.init("POST:/v1/auth/signup")
                 
                 name = email.split("@")[0]
-                password = "zhiyuan233"
+                password = "default123"
                 pikpak.signup(name, password, verification_code)
                 pikpak.activation_code()
                 

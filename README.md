@@ -54,7 +54,7 @@ You don't need to configure anything. The script handles everything automaticall
 
 ## Notes
 
-- The created accounts will have a default password of "zhiyuan233"
+- The created accounts will have a default password of "default123"
 - Account information is saved in JSON format in the ./account/ directory
 - The script includes a 5-second delay between account creations
 - If you encounter any "too frequent" errors, the script will automatically retry
