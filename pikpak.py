@@ -557,9 +557,9 @@ def main():
             num_accounts = 1
         
         # Enter invitation code
-        invite_code = input(f"{Fore.CYAN}Enter your invitation code (default: 123123123): {Style.RESET_ALL}")
+        invite_code = input(f"{Fore.CYAN}Enter your invitation code (default: 24853938): {Style.RESET_ALL}")
         if not invite_code:
-            invite_code = "123123123"
+            invite_code = "24853938"
             
         # Create a list to store created accounts
         created_accounts = []
